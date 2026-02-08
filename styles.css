@@ -17,3 +17,10 @@ p {
 h3 {
   margin: 15px;
 }
+#tribute-link {
+  color: #ffffff;
+  font-style: italic;
+}
+#more-info-test {
+  Font-size: 0.75em;
+}
